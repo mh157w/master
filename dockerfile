@@ -1,3 +1,3 @@
 from ubuntu
-run yum update all
+run sudo apt-get update 
 run apt-get install git -y
